@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0577/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 息除中夭陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1347.xml
+    old_id: T21n1347
+hash: sha256:fd12dc5d1218879f2cbcd7f7571d974bf0b351ad8957e986f333deeb35b4f2ba

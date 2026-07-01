@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0577/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0577/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 息除中夭陀羅尼經
+  identifiers:
+    krp: KR6j0577
+    cbeta: T21n1347
+    cbeta_old_id: T21n1347
+    authorityid: CA0003528
+    json_key: T1347
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1347.xml
+    old_id: T21n1347
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0577_000-T.yaml, hash: 'sha256:fd12dc5d1218879f2cbcd7f7571d974bf0b351ad8957e986f333deeb35b4f2ba'}
+  - {seq: 1, filename: KR6j0577_001-T.yaml, hash: 'sha256:b37932d8ec2b9fb3d9c3fbcd3d178c12889f957ae7c069633793969d64a993f4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0577_000-T.markers.yaml, hash: 'sha256:87c3a0e26b68b730a784935ecaee5ca2f020ede8b0735633f3f711f962118d93'}
+  - {seq: 1, role: markers, filename: assets/KR6j0577_001-T.markers.yaml, hash: 'sha256:46ce8e523dd9ce20bf230ff882d1c6bca240b04c09bf06e3dc2f3e3954993b3d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0577_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1042
+  label: 息除中夭陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:30bc19bb7f94b2c6fdc77bd2ffcd70f57240cdb9bed759f684b7ae244dfed05c
