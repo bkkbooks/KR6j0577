@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0577_000.yaml, hash: 'sha256:fd12dc5d1218879f2cbcd7f7571d974bf0b351ad8957e986f333deeb35b4f2ba'}
-  - {seq: 1, filename: KR6j0577_001.yaml, hash: 'sha256:5545215baf06531677872989e3434ed4bf5a242853a4cc3010cf2944956aa046'}
+  - {seq: 1, filename: KR6j0577_001.yaml, hash: 'sha256:b37932d8ec2b9fb3d9c3fbcd3d178c12889f957ae7c069633793969d64a993f4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0577_001.markers.yaml, hash: 'sha256:276dc534b66210e39b422b5d451973da3a177e2d1e25d45e34d57beef77f3cb8'}
+  - {seq: 0, role: markers, filename: assets/KR6j0577_000.markers.yaml, hash: 'sha256:bb15089e47ce0057889b3aa529d438ed29431cb471e6d5bc31513dd59d379bc3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0577_001.markers.yaml, hash: 'sha256:87d3434197e3b3fead06eb692bd9085378c19dcee951ae530260729783cb4e4e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 息除中夭陀羅尼經
   type: juan
   level: 1
-hash: sha256:4be29545f85820ec3b6d7a3d252ef945837f470f716d0466acdc1f8891c950b4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:72bb8953bceec9f9fead81a0f807f257ae009e776149e4200aca028fe69ec69e
