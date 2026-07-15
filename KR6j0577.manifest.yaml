@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0577/v1
 canonical_location: https://kanripo.org/bkk/KR6j0577/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 息除中夭陀羅尼經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0577_000.yaml, hash: 'sha256:fd12dc5d1218879f2cbcd7f7571d974bf0b351ad8957e986f333deeb35b4f2ba'}
-  - {seq: 1, filename: KR6j0577_001.yaml, hash: 'sha256:b37932d8ec2b9fb3d9c3fbcd3d178c12889f957ae7c069633793969d64a993f4'}
+  - {seq: 1, filename: KR6j0577_001.yaml, hash: 'sha256:4d1176d582dcaaf43474c2eeb79a802f711b3b1f60dec3240d08a2fa20c5013d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0577_000.markers.yaml, hash: 'sha256:bb15089e47ce0057889b3aa529d438ed29431cb471e6d5bc31513dd59d379bc3'}
-  - {seq: 1, role: markers, filename: assets/KR6j0577_001.markers.yaml, hash: 'sha256:87d3434197e3b3fead06eb692bd9085378c19dcee951ae530260729783cb4e4e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0577_001.markers.yaml, hash: 'sha256:64fd05f4067212a1c8bb6ff26bc8c311ae34937fc9e99e95ba208989622aa874'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 息除中夭陀羅尼經
   type: juan
   level: 1
-hash: sha256:72bb8953bceec9f9fead81a0f807f257ae009e776149e4200aca028fe69ec69e
+hash: sha256:094b0bf6d60951288582295324d81748f73857aab40ae441c98b0c9d9e2ba48b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
